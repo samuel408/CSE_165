@@ -1,3 +1,8 @@
 banana
 clam
-
+clam
+clam
+banana
+red
+red
+green
