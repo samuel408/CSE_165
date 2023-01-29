@@ -27,7 +27,7 @@ int main (){
     vector<string> array;//empty vector 
     
 
-    while(getline(myfile,line)){//reads in words and stores them in a dynamic array
+    while(myfile >> line){//reads in words and stores them in a dynamic array
 
         array.push_back(line);  
     }

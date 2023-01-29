@@ -12,12 +12,10 @@ int main (){
     string line ;
     int count = 0;
 
+    while(myfile >> line){
 
-    while(getline(myfile,line)){
-
-        count += 1;
-
-        
+        count += 1;// counts the amount of words in file.
+       
     }
 
 
